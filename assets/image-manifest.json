@@ -1,0 +1,137 @@
+{
+  "orchestra": {
+    "source": "a_wide_cinematic_high_resolution_photo_realistic_1.png",
+    "webp": "assets/images/orchestra.webp",
+    "size": [
+      1870,
+      841
+    ],
+    "bytes": 287346
+  },
+  "conductor": {
+    "source": "a_cinematic_high_end_photorealistic_portrait_sce_2_batch_1.png",
+    "webp": "assets/images/conductor.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 136032
+  },
+  "first-violins": {
+    "source": "a_cinematic_high_end_realistic_photo_portrait_st_3_batch_2.png",
+    "webp": "assets/images/first-violins.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 163522
+  },
+  "second-violins": {
+    "source": "a_luxurious_cinematic_photorealistic_portrait_st_4_batch_3.png",
+    "webp": "assets/images/second-violins.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 123544
+  },
+  "violin-solo": {
+    "source": "an_ornate_cinematic_photorealistic_portrait_styl_5_batch_4.png",
+    "webp": "assets/images/violin-solo.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 139382
+  },
+  "violins": {
+    "source": "a_luxurious_cinematic_photorealistic_portrait_st_6_batch_5.png",
+    "webp": "assets/images/violins.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 173688
+  },
+  "cellos": {
+    "source": "an_opulent_cinematic_photorealistic_scene_in_a_l_7_batch_6.png",
+    "webp": "assets/images/cellos.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 223342
+  },
+  "basses": {
+    "source": "an_opulent_cinematic_high_resolution_photoreali_8_batch_7.png",
+    "webp": "assets/images/basses.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 228202
+  },
+  "woodwinds": {
+    "source": "wide_vertical_cinematic_high_resolution_photogr_9_batch_8.png",
+    "webp": "assets/images/woodwinds.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 162598
+  },
+  "percussion": {
+    "source": "a_grand_cinematic_photorealistic_concert_hall_po_10_batch_9.png",
+    "webp": "assets/images/percussion.webp",
+    "size": [
+      941,
+      1672
+    ],
+    "bytes": 250528
+  },
+  "about": {
+    "source": "a_wide_cinematic_high_detail_collage_photomontag_1_batch_1.png",
+    "webp": "assets/images/about.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "bytes": 418442
+  },
+  "press": {
+    "source": "a_cinematic_collage_montage_in_a_classical_vintag_2_batch_2.png",
+    "webp": "assets/images/press.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "bytes": 389066
+  },
+  "photos": {
+    "source": "a_wide_cinematic_collage_style_image_with_no_text_3_batch_3.png",
+    "webp": "assets/images/photos.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "bytes": 384354
+  },
+  "videos": {
+    "source": "a_cinematic_sepia_gold_black_and_white_and_warm_4_batch_4.png",
+    "webp": "assets/images/videos.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "bytes": 323572
+  },
+  "concerts": {
+    "source": "a_rich_cinematic_collage_style_illustration_with_a_5_batch_5.png",
+    "webp": "assets/images/concerts.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "bytes": 407764
+  }
+}

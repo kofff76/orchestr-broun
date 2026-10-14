@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "first-violins",
+    "name": "Первые скрипки",
+    "en": "First violins",
+    "image": "first-violins",
+    "desc": "Ведущая мелодическая линия, точность интонации и единое дыхание оркестровой ткани.",
+    "person": "Концертмейстер — имя будет добавлено",
+    "img": "assets/images/first-violins.webp",
+    "href": "musicians/first-violins/index.html"
+  },
+  {
+    "slug": "second-violins",
+    "name": "Вторые скрипки",
+    "en": "Second violins",
+    "image": "second-violins",
+    "desc": "Внутренняя энергия струнной партитуры, взаимодействие голосов и богатство тембров.",
+    "person": "Руководитель группы — имя будет добавлено",
+    "img": "assets/images/second-violins.webp",
+    "href": "musicians/second-violins/index.html"
+  },
+  {
+    "slug": "strings",
+    "name": "Струнная группа",
+    "en": "String section",
+    "image": "violins",
+    "desc": "Звуковой фундамент симфонического состава: пластичность фразы и динамическая глубина.",
+    "person": "Состав будет добавлен",
+    "img": "assets/images/violins.webp",
+    "href": "musicians/strings/index.html"
+  },
+  {
+    "slug": "cellos",
+    "name": "Виолончели",
+    "en": "Cellos",
+    "image": "cellos",
+    "desc": "Благородный тембр, лирическая выразительность и насыщенный оркестровый регистр.",
+    "person": "Руководитель группы — имя будет добавлено",
+    "img": "assets/images/cellos.webp",
+    "href": "musicians/cellos/index.html"
+  },
+  {
+    "slug": "basses",
+    "name": "Контрабасы",
+    "en": "Double basses",
+    "image": "basses",
+    "desc": "Низкие частоты и основа гармонической архитектуры большого симфонического звучания.",
+    "person": "Руководитель группы — имя будет добавлено",
+    "img": "assets/images/basses.webp",
+    "href": "musicians/basses/index.html"
+  },
+  {
+    "slug": "woodwinds",
+    "name": "Деревянные духовые",
+    "en": "Woodwinds",
+    "image": "woodwinds",
+    "desc": "Флейта, гобой, кларнет и фагот — голос индивидуального тембра внутри симфонического полотна.",
+    "person": "Солисты группы — имена будут добавлены",
+    "img": "assets/images/woodwinds.webp",
+    "href": "musicians/woodwinds/index.html"
+  },
+  {
+    "slug": "percussion",
+    "name": "Ударные",
+    "en": "Percussion",
+    "image": "percussion",
+    "desc": "Ритмический рельеф, тембровые акценты и драматургические кульминации партитуры.",
+    "person": "Руководитель группы — имя будет добавлено",
+    "img": "assets/images/percussion.webp",
+    "href": "musicians/percussion/index.html"
+  }
+]
